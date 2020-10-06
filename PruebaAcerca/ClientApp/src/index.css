@@ -1,0 +1,10 @@
+body {
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 99vw;
+  font-family: Roboto;
+}
+button {
+    outline: none !important;
+}
